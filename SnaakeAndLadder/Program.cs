@@ -10,6 +10,8 @@ namespace SnakeAndLadderProblem
 
             GamePlay playerPosition = new GamePlay();
             playerPosition.Position();
+            GamePlay dice = new GamePlay();
+            dice.DiceRoll();
 
         }
     }
